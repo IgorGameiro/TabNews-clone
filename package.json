@@ -1,0 +1,16 @@
+{
+  "name": "tabnews-clone",
+  "version": "1.0.0",
+  "description": "This project is a clone of the TabNews platform, developed as a learning exercise to deepen my knowledge of JavaScript, Node.js, and React. The goal is to replicate the core functionalities of TabNews while gaining hands-on experience with full-stack development concepts, including frontend architecture, backend APIs, and data management.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": { 
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
